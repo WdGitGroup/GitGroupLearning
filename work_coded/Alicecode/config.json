@@ -2,5 +2,6 @@
   "author": "Alice",
   "project": "GitGroupLearning",
   "version": "0.1.0",
-  "branch": "alice-dev"
+  "branch": "alice-dev"，
+  "confilctconfig":from_Alice
 }
